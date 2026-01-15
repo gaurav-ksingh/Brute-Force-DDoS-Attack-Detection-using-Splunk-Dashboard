@@ -6,10 +6,27 @@ This project demonstrates detection and visualization of Brute Force and DoS/DDo
 # Tools & Technologies
 
 Splunk Enterprise
+
 SPL (Search Processing Language)
+
 Simulated attack log dataset
+
 SIEM detection logic
 
+# Fields in the Dataset
+
+| Field        | Description                         |
+|-------------|-------------------------------------|
+| timestamp   | Event time                          |
+| log_type    | Log source type (http)              |
+| src_ip      | Attacker / normal user IP address   |
+| dest_ip     | Target server IP                    |
+| method      | HTTP method (GET / POST)            |
+| uri         | Endpoint accessed or attacked       |
+| status      | HTTP response code (200, 302, 401)  |
+| user_agent | Browser / curl / automated script  |
+| bytes       | Payload size in bytes               |
+| attack_type| normal / brute_force / ddos         |
 
 # Detection Scenarios Implemented
 ## Brute Force Attack Detection
