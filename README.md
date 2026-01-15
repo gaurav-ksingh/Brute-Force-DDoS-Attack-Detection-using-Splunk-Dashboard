@@ -38,6 +38,9 @@ Brute Force Attack Detection
 # Outcome
 • Designed SOC-style dashboards for attack visibility • Implemented correlation-based detection logic • Gained hands-on experience with SIEM alerting concepts • Understood difference between alerts and dashboards
 
+
+
+# Dashboard 
 <img width="860" height="1350" alt="image" src="https://github.com/user-attachments/assets/96ac31a7-c2f8-4f95-a180-e0a403c0fbea" />
 
 
