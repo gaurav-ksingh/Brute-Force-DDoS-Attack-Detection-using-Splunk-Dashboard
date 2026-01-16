@@ -10,7 +10,8 @@
 # Brute force in time window
 <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/b93b176f-f3b9-466e-9628-4ab85b870b66" />
 
-
+# DoS / DDoS DETECTION
+High request volume (traffic spike)
 <img width="975" height="318" alt="image" src="https://github.com/user-attachments/assets/5c1f0f0d-1e0e-4861-bdac-11d890773d8b" />
 
 
