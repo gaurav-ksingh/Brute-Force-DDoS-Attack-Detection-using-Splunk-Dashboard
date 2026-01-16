@@ -20,10 +20,13 @@ High request volume (traffic spike)
 # Multiple IPs hitting same server (DDoS sign)
 <img width="975" height="275" alt="image" src="https://github.com/user-attachments/assets/bc21719c-043b-4215-936f-5e37c7349bc5" />
 
+# Small packet flood (classic DoS)
 <img width="975" height="340" alt="image" src="https://github.com/user-attachments/assets/9b393e73-0ac3-4678-8aa8-663462a4aa24" />
 
+# Attack vs normal traffic ratio
 <img width="975" height="249" alt="image" src="https://github.com/user-attachments/assets/ede8db3a-7a9f-44c0-837a-fc8c7485ed7c" />
 
+# Same IP doing brute force + DDoS
 <img width="975" height="296" alt="image" src="https://github.com/user-attachments/assets/279303c0-7e40-454e-9954-eb0501fd3025" />
 
 <img width="975" height="273" alt="image" src="https://github.com/user-attachments/assets/51913060-cf53-4f36-85d7-abe79bad8c1c" />
