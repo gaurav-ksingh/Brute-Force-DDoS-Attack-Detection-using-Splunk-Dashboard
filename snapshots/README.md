@@ -1,9 +1,10 @@
 <img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/19a7aaea-d329-4900-b65c-6795c4dcbb22" />
 
 
-# Brute force per IP (threshold-based)
+# Multiple failed logins (basic)
 <img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/5bcb9791-3c33-417d-bc45-e04fdebe78e3" />
 
+# Brute force per IP (threshold-based)
 <img width="975" height="271" alt="image" src="https://github.com/user-attachments/assets/27ae3441-20a5-4ef5-bacb-ef202a2dfbc9" />
 
 <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/b93b176f-f3b9-466e-9628-4ab85b870b66" />
