@@ -1,3 +1,6 @@
+
+# Log Ingestion
+
 <img width="975" height="401" alt="image" src="https://github.com/user-attachments/assets/19a7aaea-d329-4900-b65c-6795c4dcbb22" />
 
 
@@ -35,12 +38,13 @@ High request volume (traffic spike)
 # POST abuse detection
 <img width="975" height="287" alt="image" src="https://github.com/user-attachments/assets/8201f841-f1dd-453f-9841-fbe4a451088a" />
 
-
+# Automated tool detection
 <img width="975" height="435" alt="image" src="https://github.com/user-attachments/assets/c3c2b103-a424-47af-93c8-ddedd39fa24b" />
 
-
+# Failed login success pattern (attack lifecycle)
 <img width="975" height="125" alt="image" src="https://github.com/user-attachments/assets/4b805a78-b047-4c9b-9dfc-0f9eca83fe70" />
 
+ # Rare user agents
 <img width="975" height="241" alt="image" src="https://github.com/user-attachments/assets/b83f161a-06b3-4747-8a42-bb9a77f36893" />
 
 
