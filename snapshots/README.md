@@ -29,8 +29,10 @@ High request volume (traffic spike)
 # Same IP doing brute force + DDoS
 <img width="975" height="296" alt="image" src="https://github.com/user-attachments/assets/279303c0-7e40-454e-9954-eb0501fd3025" />
 
+# Top attacked endpoints
 <img width="975" height="273" alt="image" src="https://github.com/user-attachments/assets/51913060-cf53-4f36-85d7-abe79bad8c1c" />
 
+# POST abuse detection
 <img width="975" height="287" alt="image" src="https://github.com/user-attachments/assets/8201f841-f1dd-453f-9841-fbe4a451088a" />
 
 
