@@ -7,6 +7,7 @@
 # Brute force per IP (threshold-based)
 <img width="975" height="271" alt="image" src="https://github.com/user-attachments/assets/27ae3441-20a5-4ef5-bacb-ef202a2dfbc9" />
 
+# Brute force in time window
 <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/b93b176f-f3b9-466e-9628-4ab85b870b66" />
 
 
