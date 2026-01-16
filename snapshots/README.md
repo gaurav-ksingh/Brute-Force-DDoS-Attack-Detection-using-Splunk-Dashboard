@@ -17,7 +17,7 @@ High request volume (traffic spike)
 # DDoS over time
 <img width="975" height="444" alt="image" src="https://github.com/user-attachments/assets/028579fd-f0b5-450b-a4a3-39a6ab37786a" />
 
-
+# Multiple IPs hitting same server (DDoS sign)
 <img width="975" height="275" alt="image" src="https://github.com/user-attachments/assets/bc21719c-043b-4215-936f-5e37c7349bc5" />
 
 <img width="975" height="340" alt="image" src="https://github.com/user-attachments/assets/9b393e73-0ac3-4678-8aa8-663462a4aa24" />
